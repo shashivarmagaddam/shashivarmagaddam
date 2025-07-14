@@ -16,7 +16,7 @@ I am a recent graduate actively pursuing a career as a **Java Full Stack Develop
 - **E-commerce Website:** 
   A comprehensive project where I applied my Java and fullstack skills to develop a functional online shopping platform.  
   *(Feel free to check out my repositories for more details!)*
-    DEMO HERE : shashivarmagaddam.github.io/ecom
+    DEMO HERE : https://shashivarmagaddam.github.io/ecom
 ## 🎓 Education
 
 - Recent Graduate  
